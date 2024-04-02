@@ -1,4 +1,7 @@
-Kyrsai - Shellcode Injector
-Kyrsai is a powerful shellcode injector designed to inject dll's into target processes. 
-Please dont be a idiot and try to bipas EAc or Vanguard!!)))11.
+Kyrsai - Shellcode Injector 
+
+Kyrsai is a shellcode injector designed to inject dll's into target processes. 
+
+Im basing it off crow's maldev video series so this is in no way perfect but still pretty cool
+
 
