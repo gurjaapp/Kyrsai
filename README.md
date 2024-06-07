@@ -1,3 +1,3 @@
 ## Kyrsai - Shellcode Injector 
 
-dead ahh project made a primitive dll injector and forgor to update not updating again unless with a manual map or other injector
+Kyrsai is the name for my cheats now and im using this repo for a assault cube cheat!
